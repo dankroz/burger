@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+#avde {
+    font-family: cursive;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+.add {
+    text-align: center;
+}
